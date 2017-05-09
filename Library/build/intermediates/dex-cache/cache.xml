@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ASProjects\Library\app\libs\nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\ASProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-library-2.4.0_7790338543e87a721472775b58a8da87250115d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ASProjects\Library\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="243e12d7c6bc8ab75dec6631a56bee2403b7c9fb">
+        <dex dex="E:\ASProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c28d3d0c2b589248d1605b4a53d333a502fc6310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ASProjects\Library\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\ASProjects\Library\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3e1a8bb7c83a7628d9b7345de5206b32dd107bb3\classes.dex" />
+    </item>
+
+</items>
